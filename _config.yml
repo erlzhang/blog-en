@@ -25,6 +25,8 @@ social:
 
 # Build settings
 markdown: kramdown
+permalink: /:title:output_ext
+timezone: Asia/Shanghai
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
@@ -33,6 +35,16 @@ plugins:
 theme_setting:
   nav_pages:
     - about.md
+head_code: |
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?3176e6e675ed7773f831e38c7a57880f";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
