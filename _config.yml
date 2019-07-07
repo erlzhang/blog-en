@@ -35,6 +35,9 @@ plugins:
 theme_setting:
   nav_pages:
     - about.md
+    -
+      title: "中文博客"
+      url: "https://erl.im"
 head_code: |
   <script>
     var _hmt = _hmt || [];
