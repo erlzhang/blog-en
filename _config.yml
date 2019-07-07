@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sharon Zhang 
+title: Sharon Zhang
 email: zhangshiyu199@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A full-stack web developer and minimalist.
@@ -31,6 +31,7 @@ theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
   - jekyll-img-prefix
+  - jekyll-paginate-v2
 
 theme_setting:
   nav_pages:
@@ -44,19 +45,28 @@ head_code: |
     (function() {
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?3176e6e675ed7773f831e38c7a57880f";
-      var s = document.getElementsByTagName("script")[0]; 
+      var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
 
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 5
+  permalink: '/page/:num/'
+  trail:
+    before: 2
+    after: 2
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

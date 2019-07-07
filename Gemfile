@@ -19,6 +19,7 @@ gem 'jekyll-theme-persephone', ">= 0.1.5"
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-img-prefix'
+	gem 'jekyll-paginate-v2'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
