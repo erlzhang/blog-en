@@ -19,3 +19,15 @@ I'm sorry for my poor English speaking and writing, but I'm working hard to impr
 I'm happy to make friends with you.
 
 I like writing. If you happened to be familiar with Chinese, you can find more articles and novels [here](https://erl.im).
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>

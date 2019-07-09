@@ -50,6 +50,7 @@ head_code: |
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 pagination:
   enabled: true
