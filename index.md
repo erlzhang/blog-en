@@ -4,6 +4,8 @@
 layout: page
 ---
 
+<p align="center"><img src="/img/avatar.jpg" width="100" height="100" style="border-radius: 50%; margin-bottom: 30px;" /></p>
+
 Hello, I'm Sharon Zhang~
 
 I'm a full-stack web developer lived in Jilin, China, working with `Juby` and `JavaScript`.
