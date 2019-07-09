@@ -35,9 +35,10 @@ plugins:
 
 theme_setting:
   nav_pages:
-    - about.md
+    - index.md
+    - blog.md
     -
-      title: "中文博客"
+      title: "中文"
       url: "https://erl.im"
 head_code: |
   <script>
