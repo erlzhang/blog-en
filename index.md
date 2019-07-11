@@ -6,19 +6,15 @@ layout: page
 
 <p align="center"><img src="/img/avatar.jpg" width="100" height="100" style="border-radius: 50%; margin-bottom: 30px;" /></p>
 
-Hello, I'm Sharon Zhang~
+😃 Hello, I'm Sharon Zhang~
 
-I'm a full-stack web developer lived in Jilin, China, working with `Juby` and `JavaScript`.
+I'm a full-stack web developer lived in Jilin, China, working with `Juby` and `JavaScript`. Learn more from my [Resume](/resume).
 
- I’m passionate about programming, design, user experience. I like building minimal websites using static site generators.
+I’m passionate about programming, design and user experience. I like building minimal websites using static site generators. I have made several minimal WordPress themes, Jekyll themes and Jekyll plugins. You can find them from my [Github](https://erlzhang.github.com/erlzhang).
 
-This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [Netlify](https://www.netlify.com/). The theme I currently use is [Persephone](https://github.com/erlzhang/jekyll-theme-persephone)
+I'm sorry for my poor English speaking and writing, but I'm working hard to improve that. I'd be happy to make friends with you if you don't mind that.
 
-I'm sorry for my poor English speaking and writing, but I'm working hard to improve that. *Thanks to [Grammarly](https://grammarly.com).*
-
-I'm happy to make friends with you.
-
-I like writing. If you happened to be familiar with Chinese, you can find more articles and novels [here](https://erl.im).
+I like writing. If you happen to be familiar with Chinese, you can find more articles and novels from [my Chinese blog](https://erl.im).
 
 <script>
   if (window.netlifyIdentity) {

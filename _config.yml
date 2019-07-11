@@ -35,6 +35,7 @@ plugins:
 
 theme_setting:
   nav_pages:
+    - resume.md
     - blog.md
     -
       title: "中文"
