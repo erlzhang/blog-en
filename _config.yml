@@ -22,6 +22,7 @@ rss: "/feed.xml"
 social:
   github: 'erlzhang'
   twitter: 'icily0719'
+  codepen: 'erlzhang'
 
 # Build settings
 markdown: kramdown
@@ -65,7 +66,9 @@ pagination:
 
 comment:
   enabled: true
-  provider: "disqus"
+  provider: "static"
+  static:
+    postUrl: "http://localhost:5000/post-comment"
   disqus:
     name: "erlzhang"
 
