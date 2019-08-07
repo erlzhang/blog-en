@@ -19,6 +19,8 @@ I copied the idea of design from a lot of places:
 
 Finally, I pushed it as a Ruby Gem and made it open source as usual.
 
+## Demo
+
 There are eight layouts in this theme. 
 
 | ![home layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png) | ![blog layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png)       | ![post layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png)     |
@@ -29,7 +31,43 @@ There are eight layouts in this theme.
 | ![book layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/book.png) | ![chapter layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/chapter.png) |                                                                                                         |
 | `layout: book` [Demo](https://erl.im/corner)                                                        | `layout: chapter` [Demo](https://erl.im/corner/1)                                                         |                                                                                                         |
 
-You can find the full demo from my [Chinese blog](https://erl.im). The introduction and usages can be found [here](https://github.com/erlzhang/jekyll-theme-persephone/blob/master/docs/layouts.md) (some of the layouts can't be used with a [jekyll-books](https://github.com/erlzhang/jekyll-theme-persephone/blob/master/docs/books.md) plugin).
+You can find the full demo from my [Chinese blog](https://erl.im).
+
+## Installation
+
+### Use by Ruby gem
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-theme-persephone"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yml
+theme: jekyll-theme-persephone
+```
+
+And then execute:
+
+```bash
+$ bundle
+```
+
+### Use by remote theme
+
+The theme is not supported by Github Pages natively. But you can use `remote_theme` instead.
+
+Add this line to your Jekyll site's `_config.yml`:
+
+```yml
+remote_theme: erlzhang/jekyll-theme-persephone
+```
+
+## Features and Usage
+
+The introduction and usages can be found [here](https://github.com/erlzhang/jekyll-theme-persephone/blob/master/docs/layouts.md) (some of the layouts can't be used with a [jekyll-books](https://github.com/erlzhang/jekyll-theme-persephone/blob/master/docs/books.md) plugin).
 
 [Here](https://github.com/erlzhang/jekyll-theme-persephone/blob/master/_config.yml) is a fully functional setting of the theme in `_config`.
 
