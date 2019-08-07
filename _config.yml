@@ -26,13 +26,13 @@ social:
 
 # Build settings
 markdown: kramdown
-permalink: /:title:output_ext
-timezone: Asia/Shanghai
+permalink: /blog/:title:output_ext
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
   - jekyll-img-prefix
   - jekyll-paginate-v2
+  - jekyll-sitemap
 
 theme_setting:
   nav_pages:
