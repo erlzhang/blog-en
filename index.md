@@ -2,13 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+title: Home
 ---
 
 <p align="center"><img src="/img/avatar.jpg" width="100" height="100" style="border-radius: 50%; margin-bottom: 30px;" /></p>
 
 😃 Hello, I'm Sharon Zhang~
 
-I'm a full-stack web developer lived in Jilin, China, working with `Juby` and `JavaScript`. Learn more from my [Resume](/resume).
+I'm a full-stack web developer lived in Jilin, China, working with `Juby` and `JavaScript`.
 
 I’m passionate about programming, design and user experience. I like building minimal websites using static site generators. I have made several minimal WordPress themes, Jekyll themes and Jekyll plugins. You can find them from my [Github](https://erlzhang.github.com/erlzhang).
 
