@@ -66,9 +66,7 @@ pagination:
 
 comment:
   enabled: true
-  provider: "static"
-  static:
-    postUrl: "http://localhost:5000/post-comment"
+  provider: "disqus"
   disqus:
     name: "erlzhang"
 
