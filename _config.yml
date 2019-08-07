@@ -71,12 +71,14 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      locale: "en"
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      locale: "en"
 
 comment:
   enabled: true
