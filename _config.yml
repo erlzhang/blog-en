@@ -42,14 +42,14 @@ theme_setting:
       title: "中文"
       url: "https://erl.im"
 head_code: |
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88269207-1"></script>
   <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?3176e6e675ed7773f831e38c7a57880f";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-88269207-1');
   </script>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
