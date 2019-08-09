@@ -1,8 +1,12 @@
 ---
 title: Jekyll Theme Persephone
 date: 2019-08-07T07:08:04.260Z
+keywords: Jekyll, Jekyll Theme, Minimal Website Design, Responsive Design
+description: Persephone is a Jekyll theme with full functions and minimal responsive design.
 ---
 There used to be a question: Why programmers prefer minimal design? The answer is that because they can only do minimal "design".
+
+<!--more-->
 
 Then here comes this minimal Jekyll theme 👏!
 

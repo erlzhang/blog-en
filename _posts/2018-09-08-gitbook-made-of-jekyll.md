@@ -1,13 +1,13 @@
 ---
-layout: post
 title: A Multiple Books Generator Inspired by GitBook and Made of Jekyll
 date: 2018-09-08 13:23:12 +0800
-ref: multibooks
-locale: en
 code: true
-excerpt: I don't think I can express my thought by a blog completely. I can use it to record some fragments conveniently. However, I can't put my novels and books, which contain multiple articles of one topic, in it perfectly.
+keywords: books generator,  Jekyll plugin, Gitbook
+description: I write a Jekyll plugin to make a multi-books generator like Gitbook.
 ---
 I don't think I can express my thought with a blog entirely. A blog can be used to record some fragments conveniently. However, I can't publish my novels and books, which contain multiple articles of one topic, well with it.
+
+<!--more-->
 
 I have searched a lot of ways to publish novels in my old blog powered by *WordPress*. I made a book module in the theme [Dysis](https://github.com/erlzhang/dysis). The chapters were written in `txt` files and rendered by `AJAX`.
 

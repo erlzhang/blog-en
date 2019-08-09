@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Minimalist Lifestyle
 date: "2018-11-25 11:42:10 +0800"
-ref: milimalism
-locale: en
 excerpt: It's not exaggerating if I say that my life has been changed by minimalism.
+keyword: minimalism, minimalist lifestyle
+description: How and why do I become minimalism.
 ---
 It's not exaggerating if I say that my life has been changed by minimalism.
 

@@ -2,12 +2,13 @@
 layout: post
 title:  How to config lighttpd to serve a Jekyll blog?
 date: "2018-12-07 21:19:26 +0800"
-ref: lighttpd
-locale: en
 code: true
-excerpt: I bought a VPS, with a single core, 10G memories of disk space, and 512M RAM,  in impulse one day. It is obvious that I can't serve any web APPs with that, but it is enough to serve a static blog.
+keywords:  Config of lighttpd, Jekyll blog, VPS server, blog optimization, Jekyll optimization
+description: This article is about how to deploy Jekyll blog with a Ubuntu server and Lighttpd and how to optimize the blog with Lighttpd.
 ---
 I bought a VPS, with a single core, 10G memories of disk space, and 512M RAM,  in impulse one day. It is obvious that I can't serve any web APPs with that, but it is enough to serve a static blog.
+
+<!--more-->
 
 My blog used to be served by Github Page when I started to use Jekyll instead of Wordpress. There was a limitation there all plugins written by myself couldn't work unless I pushed them to the Github Page artificially after building locally. Finally, I decided to serve it with my VPS. I set a `callback` in the Github repo so that every time there is something pushed, the server will pull automatically and build the website.
 

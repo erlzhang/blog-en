@@ -2,11 +2,10 @@
 layout: post
 title: Make Subscription to Daily News with Scrapy and Gitbook and Push it to Kindle
 date: 2018-08-25 12:34:12 +0800
-ref: kindlepush
-locale: en
 code: true
 mermaid: true
-excerpt: About four years ago, I used Gouerduo Daily Report for subscriptions to daily news for a period of time after I bought Kindle. I canceled it because of its uselessness. I found my isolation three months ago. However, about three months ago, I found my isolation and want to get more information about the outside world.
+keywords: Kindle, Scrapy, Gitbook, Python, news subscription
+description: I wrote a spider to srape the news automatically, made a mobi e-book with Gitbook and push it to my Kindle.
 ---
 About four years ago, I used *Gouerduo Daily Report* for subscriptions to daily news for a period of time after I bought Kindle. I canceled it because I found it uselessness. However, about three months ago, I felt a little bit isolated and would like to get more information about the outside world.
 

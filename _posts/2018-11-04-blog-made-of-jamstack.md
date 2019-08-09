@@ -2,11 +2,13 @@
 layout: post
 title: Blog Made of Jamstack
 date: 2018-11-04 15:23:03 +0800
-ref: jamstack
-locale: en
 code: true
+keywords: Jamstack blog, static websites, serverless website, JavaScrip API
+description: How do I build a serverless personal blog with Jamstack.
 ---
 What is JAMstack? J means JavaScript, A means API and M is Markup. Here is the official explanation:
+
+<!--more-->
 
 > Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 

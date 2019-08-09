@@ -1,5 +1,7 @@
 ---
 layout: page
+keywords: Erl, Sharon Zhang, personal blog, Jekyll blog, web developer
+description: I'm Sharon Zhang, a web developer, and minimalism. This is my blog about programming, developing and minimal lifestyle.
 ---
 <p align="center"><img src="/img/avatar.jpg" width="100" height="100" style="border-radius: 50%; margin-bottom: 30px;" /></p>
 

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: I traveled to Guangzhou three times.
-ref: guangzhou
-locale: en
+keywords: Guangzhou, China, travel
+description: From 2016 to 2018, I traveled to Guangzhou every year. Here is the review during these travels.
 ---
 It is in July of 2016 when I first travel to Guangzhou. How foolish that I went where in midsummer! I was in Shanghai at that time when I have two days of vocation. It is wasteful if I didn't travel to somewhere make use of the vocations. People who are rational may go north, nevertheless, I flew to the most southern city.
+
+<!--more-->
 
 Sky ask for leave to accompany me roam around the street of Guangzhou when the temperature is at 36.  We were both too tired to go out on the third day, so we slept all day in the air-conditioned room with the rhythm of the falling rain.
 

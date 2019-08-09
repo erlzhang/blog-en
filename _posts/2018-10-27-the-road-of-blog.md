@@ -2,11 +2,12 @@
 layout: post
 title: The Road Of My Blog
 date: 2018-10-27 13:36:04 +0800
-ref: blog
-locale: en
-excerpt: I started to build a blog in 2012 when I was studying International Politics in college with my limited acknowledge in HTML and CSS. The programming languages I knew then including JSP, ASP, and PHP. And I thought that I would never learn PHP and JavaScript well.
+keywords: personal website, blog, WordPress, Jekyll
+description: I reviewed the period of six years making a blog.
 ---
 I started to build a blog in 2012 when I was studying International Politics in college with my limited acknowledge in HTML and CSS. The programming languages I knew then including JSP, ASP, and PHP. And I thought that I would never learn PHP and JavaScript well.
+
+<!--more-->
 
 In the beginning, I used the Emlog to build this blog and register the *erlmy.com* in Wanwang which is dropped then. Wanwang hadn't belonged to Aliyun at that time. Then I rent a virtual host of 300M disk memory.
 
@@ -16,7 +17,7 @@ I migrated the blog from Emlog to Wordpress within one year. The reason is simpl
 
 I tried to make a theme by myself rather than using others'. I couldn't achieve that with the limited knowledge of HTML and CSS. So I started learning Jquery and a little PHP. What I learned could only account for a few changes of other people's themes. My skills of HTML and CSS which I thought were practiced at that time were just at a low level.
 
-Blog became one of the most important enjoyment gradually. The impact it made on me is unimaginable for others.  
+Blog became one of the most important enjoyment gradually. The impact it made on me is unimaginable for others.
 
 I hardly ever write before I had the blog. I love writing diaries and had done that for over ten years from when I was a child. The fragments in diaries are private and scattered, which could hardly comprise a complete composition. Sometimes I extracted some sentences to rewrite an article and posted it on my blog in *163.com* (or maybe *Sina*).
 

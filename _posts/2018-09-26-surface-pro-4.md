@@ -2,8 +2,8 @@
 layout: post
 title: How to Program in Surface Pro 4?
 date: 2018-09-26 09:43:44 +0800
-ref: surfacepro4
-locale: en
+keywords: surface pro 4, windows 10, WSL, Atom, Termius, Trello
+description: The tools I used for developing in windows 10 on surface pro 4.
 ---
 Everyone has its own criteria to choose a new computer, like the performance, the appearance, the portability or the compromise among those. It depends on how you use it.
 

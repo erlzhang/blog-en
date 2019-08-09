@@ -2,12 +2,13 @@
 layout: post
 title: The learning methods from educational psychology.
 date: 2018-11-17 13:27:18 +0800
-ref: learning_methods
-locale: en
 math: true
-excerpt: Studying is enjoyable for me, but studying for an examination is miserable especially when the contents learned are boring and meaningless.
+keywords: learning methods, educational psychology, tips for learnings
+description: What do I learn from learning education psychology.
 ---
 Studying is enjoyable for me, but studying for an examination is miserable especially when the contents learned are boring and meaningless.
+
+<!--more-->
 
 I even don't want to call that *studying*. That's *preparing an examine* only. I can gain only a few knowledge during the preparation of most of examines. However, the *less* is not equal to the *none*. It is valuable even when only 10 percents of the contents I learned are useful while the others are not. ( Don't waste the time if the valuable contents account less then 10 percent.)
 
