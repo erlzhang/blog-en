@@ -9,6 +9,8 @@ branches:
 
 deploy:
   provider: script
+  skip_cleanup: true
   script: ruby scripts/deploy.rb
+  keep_history: true
   on:
     branch: travis
