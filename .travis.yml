@@ -3,6 +3,10 @@ rvm:
   - 2.5
 script: bundle exec jekyll build
 
+branches:
+  only:
+  - travis
+
 deploy:
   provider: pages
   skip_cleanup: true
