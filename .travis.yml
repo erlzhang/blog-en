@@ -10,7 +10,7 @@ branches:
 deploy:
   provider: script
   skip_cleanup: true
-  script: ruby scripts/deploy.rb
+  script: gem install aliyun-sdk && ruby scripts/deploy.rb
   keep_history: true
   on:
     branch: travis
