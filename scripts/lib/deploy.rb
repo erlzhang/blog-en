@@ -53,7 +53,7 @@ class Deploy
   # 推送本地文件到远程
   def push_object(path)
     if path.start_with?('_site')
-      remote_path = path.sub('_site', '')
+      remote_path = path.sub('_site/', '')
     else
       remote_path = path;
     end
