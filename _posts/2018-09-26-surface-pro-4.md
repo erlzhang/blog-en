@@ -27,8 +27,6 @@ There is a lack of consideration, which is I couldn't predict that I would be a 
 
 ## System: [Ubuntu 18.04](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot%3Aoverviewtab)
 
-![ubuntu in windows](/img/surface/ubuntu_in_windows.png)
-
 I program in Linux most of the time. My laptop at work is a ThinkPad with both Ubuntu and Windows10. I hardly use the latter. The Surface Pro I bought is with a low specification. I can't install another system based on just 128 SSD. The only solution is a visual system before the Subsystem and it uses too much memory. I love the subsystem for the low cost of resources. GUI is useless where there is Windows. For programming, bash is enough.
 
 The speed and efficiency are lower than that in pure Linux. There is an obvious delay when I start building and running migration in Rails. It is ok to use it once in a while but not often.
@@ -37,8 +35,6 @@ I can't update the system of my work laptop casually, so I have a try of the ver
 
 ## Editor: [Atom](https://atom.io/)
 
-![Atom](/img/surface/atom.png)
-
 I use vim mostly at work, and so in the subsystem at the early stage. But I don't like the colors of the Bash, and I can't change them to ones with low saturation. And it runs slowly. So I switch to editors in Windows. I have used Notepad++ and Sublime. Both of them are ok except for one thing. The input tooltip went to the left top corner of the screen when I typed in Chinese. It's strange.
 
 I finally choose the Atom, which is open source and full of functions. I can type codes and write articles comfortably with its nearly perfect Markdown Editor.
@@ -46,8 +42,6 @@ I finally choose the Atom, which is open source and full of functions. I can typ
 There is one limit ( or maybe a bug ): Sometimes I can't switch to Chinese while typing in English. It is not the fault of the IME for I found that problem in both in Windows and Ubuntu with Atom.
 
 ## The Remote Terminal: [Termius](http://www.termius.com/)
-
-![Termius](/img/surface/termius.png)
 
 I rent a VPS some months ago when I made the Kindlepush and need a remote terminal. I use Remmia in Ubuntu at work and putty in Windows. The UI of putty in my laptop is unclear for it hasn't been adapted to HD.
 
@@ -62,8 +56,6 @@ I used to use FTP for transferring files into the server when I used Virtual Hos
 FileZilla is the best choice both for FTP and SFTP. It can be used in Windows and Linux with full of functions.
 
 ## Project Management: [Trello](https://trello.com/)
-
-![Trello](/img/surface/trello.png)
 
 I found the Trello in Microsoft Store, but I have heard of it already. I found it very useful in project management, reading management, learning management, writing management, lifestyle management, travel management, and even life management. It can be used in anything which name contains the word "management". I make a habit of making plans before any development with it.
 

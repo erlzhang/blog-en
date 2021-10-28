@@ -26,11 +26,7 @@ A City(城) is not with a mere big area or a huge population. Shenzhen is a city
 
 Guangzhou is a City. It is not so well known as a City but is still a City. There isn’t enough description about it in our history textbook. From some academical papers, I learned that it has three thousands of years of history. He is not a boy. He is just low-key and lack of historical buildings like other Cities. You can learn its history from multiple resources if you are interested in that.
 
-![Huangpu Port](/img/guangzhou/huangpugugang2.jpg)
-
 I went to Huangpu Port on the secondary day after I arrived at Guangzhou last year, where there is rarely a historical atmosphere. Sky took me to drink the Ginger Milk Pudding, nevertheless, I don’t like gingers. After we finished our lunch, we roamed around the port and didn’t go through that.
-
-![Huangpu Port](/img/guangzhou/huangpugugang.jpg)
 
 Huangpu Port is important in the Silk Road, which can prove the history of the Guangzhou City. There should be a Huangpu Village nearby where we didn’t go into. Sky sent me a booklet of the Temple of South China Sea God as a birthday gift, which is interesting.
 
@@ -38,13 +34,7 @@ Huangpu Port is important in the Silk Road, which can prove the history of the G
 
 When hearing the name of Shameen, I associate it with the ambru, and then the barbeque sauce. Finally, I want to eat hotpot(smile). Such an odd association impressed me in that place. I couldn’t go there because of the hot, the rain and our tiredness during my first travel. I went there in the second after I came back from Shenzhen. It is still a rainy day but a little bit cold. I had to take photos in the rains.
 
-![Shameen](/img/guangzhou/shamian3.jpg)
-
 I like those buildings with western style and historical taste and the rains promoted the literature feelings. It was a little bit difficult to take photos, but I had practiced in the summit of the Sun Yat-sen Mausoleum in Nanjing. It’s a pity that I was not skillful and the layouts of the photos are not so well.
-
-![Shameen](/img/guangzhou/shamian1.jpg)
-
-![Shameen](/img/guangzhou/shamian2.jpg)
 
 ## Shangxiajiu
 

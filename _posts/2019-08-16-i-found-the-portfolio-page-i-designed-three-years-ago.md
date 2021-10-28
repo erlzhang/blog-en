@@ -8,6 +8,4 @@ It could be a surprise to find the portfolio website I did three years ago when 
 
 It is an interesting thing to take a look at the back. I read the rough and messy code I wrote in the time when I thought my JavaScript skill level was pretty fine. I enjoyed the pictures I drew with AI which are not so beautiful and delicate. But I like them. Even the works are childish, just like the naive I.
 
-![Portfolio Page](/img/erldesign.png)
-
 The demo site is [here](https://erlzhang.github.io/erldesign)

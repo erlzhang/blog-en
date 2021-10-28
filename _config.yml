@@ -17,7 +17,6 @@ title: Sharon Zhang
 email: zhangshiyu199@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A full-stack web developer and minimalist.
-img_prefix: https://persephone.oss-cn-beijing.aliyuncs.com
 rss: "/feed.xml"
 social:
   github: 'erlzhang'
@@ -38,6 +37,7 @@ plugins:
 theme_setting:
   nav_pages:
     - blog.md
+    - archive.md
     -
       title: "中文"
       url: "https://erl.im"
@@ -52,7 +52,6 @@ head_code: |
 
     gtag('config', 'UA-88269207-1');
   </script>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 pagination:
   enabled: true

@@ -56,16 +56,9 @@ The principle of Netlify CMS is the J and A of JAM, JavaScript and APIs.
 
 I like the UI of Nelify CMS. But the functions are not perfect. I may improve it by myself if I learned React.
 
-![the index of Netlify CMS](/img/netlifycms_1.jpg)
-
 *Workflow* is one of its features. You can use that if your blog has more than one author. It is based on the `pull request` of Github.
 
-
-![Netlifycms Workflow](/img/netlifycms_2.jpg)
-
 Rich text editor based on `markdown`. You can use it even if you don't know `markdown`.
-
-![Rich text editor in Netlify CMS](/img/netlifycms_3.jpg)
 
 ## CI
 

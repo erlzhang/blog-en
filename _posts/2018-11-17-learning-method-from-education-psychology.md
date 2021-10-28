@@ -24,8 +24,6 @@ I might forgo if I hadn't paid the fee. However, no matter what the result is, t
 
 The Motivation Curve means the relation between one's motivations and results. The motivations I mentioned here includes not only learning motivations but also working motivations and the motivations to solve problems. You may think that the stronger motivations you have, the better results you will gain. But the research from a psychologist (I don't think it is useful to memorize such a name here) shows that the relation between the motivations and the results formed a curve of a reversed U. **Both strong and weak motivations will make a negative impact on the results.** The curve is also relative to the difficulty of the tasks. **The best level of motivation is higher in easy tasks then that in difficult ones.**
 
-![The Motivation Curve in Learning](/img/learning_1.jpg)
-
 ## Memory
 
 ### Short-term Memories and Long-term Memories
@@ -39,8 +37,6 @@ We can change the short-term memories to long-term memories by **repeating**, th
 ### The Forgetting Curve
 
 These contents are often mentioned in all kinds of relative books. **The speed of forgetting is high in early time and get lower later gradually as the days after learning increased.**
-
-![The forgetting curve](/img/learning_2.jpg)
 
 ### The Proactive and Retroactive Inhibition
 

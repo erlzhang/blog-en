@@ -39,11 +39,7 @@ However, I got tired of what I had done and written one day. I wanted to cut the
 
 Then I designed and completed the [Dysis](https://github.com/erlzhang/dysis) as the new Wordpress theme after seeing a lot of WordPress themes.
 
-![Dysis](/img/blog/dysis.png)
-
 The [ErlSimple](https://github.com/erlzhang/erlsimple) I made before is a copy of a minimal Tumblr theme. There are little of my thought in it even I made it absolutely changed. The animation effects on that were made of plugins and random code fragments from the Internet. There were so many bugs that I felt tired of improving it. I finally rewrote some source codes and cut the CSS to 50% of the original code amount.
-
-![ErlSimple](/img/blog/erlsimple.png)
 
 [Dysis](https://github.com/erlzhang/dysis) is the production which I paid a lot. I still love it today even if it isn't perfect and can be easily found out that the author was not professional. My JavaScript skills have been improved a lot after making that. I tried not to use plugins and used native JavaScript only to make what I want no matter what the result was.
 
