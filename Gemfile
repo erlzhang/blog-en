@@ -1,5 +1,5 @@
-source "https://rubygems.org"
-#source 'https://gems.ruby-china.com'
+#source "https://rubygems.org"
+source 'https://gems.ruby-china.com'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", ">= 3.8.5"
-gem 'jekyll-theme-persephone', ">= 0.1.9"
+gem 'jekyll-theme-persephone'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
