@@ -3,6 +3,8 @@ layout: page
 keywords: Erl, Sharon Zhang, personal blog, Jekyll blog, web developer
 description: I'm Sharon Zhang, a web developer, and minimalism. This is my blog about programming, developing and minimal lifestyle.
 ---
+<p style="text-align:center"><img src="https://erlim.oss-cn-hongkong.aliyuncs.com/img/avatar.jpg" width="130" height="130"/></p>
+
 😃 Hello, I'm Sharon Zhang~
 
 I'm a front-end web developer lived in Beijing, China. 
